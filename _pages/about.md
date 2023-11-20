@@ -7,23 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Reader (Associate Professor) in [Operational Research](https://www.maths.ed.ac.uk/school-of-mathematics/research/data-decisions/optimization-and-operational-research), [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics), [The University of Edinburgh](https://www.ed.ac.uk/). My research mainly focuses on optimization under uncertainty.
+I am an Assistant Professor in Operations Management, at the [DeGroote School of Business](https://www.degroote.mcmaster.ca/), at [McMaster University](https://www.mcmaster.ca/). My research focuses on constructing data-driven, realistic models of healthcare operations and developing predictive and prescriptive analytics to support decision-making under uncertainty. My research methodologies include stochastic modeling and optimization, queueing theory, interpretable machine learning, and Markov decision processes.
 
 ### Education
-- Ph.D., [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/), [UW-Madison](https://www.wisc.edu/), 2015
-- M.S., Industrial and Systems Engineering, UW-Madison, 2014
-- M.S., Computer Science, UW-Madison, 2014
-- B.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2011
-- B.A., Mathematics, Bogazici University, 2011
+- Ph.D., [Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), 2023
+- M.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2017
+- B.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2017
 
 ### Contact Information
-Merve BODUR\
-School of Mathematics\
-The University of Edinburgh\
-James Clerk Maxwell Building\
-Peter Guthrie Tait Road\
-JCMB 3619\
-Edinburgh, EH9 3FD, UK
+Berk Gorgulu\
+DeGroote School of Business\
+McMaster University\
+1280 Main Street West\
+DSB 411\
+Hamilton, ON, L8S 4M4, CANADA
 
-E-mail: [merve.bodur@ed.ac.uk](merve.bodur@ed.ac.uk)\
-Web: [https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1185](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1185)
+E-mail: [gorgulub@mcmaster.ca](gorgulub@mcmaster.ca)\
+Web: [https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub](https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub)
