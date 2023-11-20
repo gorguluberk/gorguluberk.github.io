@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Merve Bodur"
+title                    : "Berk Görgülü"
 title_separator          : "-"
-name                     : &name "Merve Bodur"
+name                     : &name "Berk Görgülü"
 description              : &description "page description"
-url                      : https://mervebodur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gorguluberk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mervebodur/mervebodur.github.io"
+repository               : "gorguluberk/gorguluberk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Merve Bodur"
+  name             : "Berk Görgülü"
   avatar           : "profile.png"
   bio              : " "
-  location         : "Edinburgh, UK"
-  employer         : "The University of Edinburgh"
+  location         : "Hamilton, ON, Canada"
+  employer         : "McMaster University, DeGroote School of Business"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JlWdyYwAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=82VVKC0AAAAJ&hl=en"
   email            :
-  researchgate     :  #"https://www.researchgate.net/profile/Merve-Bodur"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"mervebodur"
+  github           : #"gorguluberk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"meurevine"
-  orcid            : https://orcid.org/0000-0002-9276-3755
+  linkedin         : #"gorguluberk"
+  orcid            : https://orcid.org/0000-0002-9135-946X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
