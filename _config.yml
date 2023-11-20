@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : " "
   location         : "Hamilton, ON, Canada"
-  employer         : "McMaster University, DeGroote School of Business"
+  employer         : "DeGroote School of Business \n McMaster University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=82VVKC0AAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "meurevine"
+  twitter          : #"meurevine"
   vine             :
   weibo            :
   xing             :
