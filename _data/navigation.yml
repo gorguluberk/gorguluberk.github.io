@@ -1,13 +1,11 @@
 # main links links
 main:    
   - title: "CV"
-    url: https://mervebodur.github.io/files/cv.pdf
+    url: https://gorguluberk.github.io/files/cv.pdf
 
   - title: "Research"
     url: /research/
 
-  - title: "Service"
-    url: /service/
+  - title: "Teaching"
+    url: /teaching/
     
-  - title: "Links"
-    url: /links/
