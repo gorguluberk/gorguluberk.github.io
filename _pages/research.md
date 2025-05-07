@@ -11,14 +11,34 @@ author_profile: true
 
 
 ## Preprints
-1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach.** [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182715)\
-with Jing Dong and Vahid Sarhangian (2023)
+
+## Working Papers
+Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking
+
+Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations
 
 
 ## Journal Papers
-1. **A Newsvendor Approach to Design of Surgical Preference Cards** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2021.0298)\
+1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach.** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
+with Jing Dong and Vahid Sarhangian \
+*Manufacturing and Service Operations Management* (2024)
+
+2. **Inventory Management with Advance Booking Information: The Case of Surgical Supplies and Elective Surgeries** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2021.0063)\ with Jacky Chan and Vahid Sarhangian \ *Manufacturing and Service Operations Management* (2024)
+  
+4. **Column generation-based prototype learning for optimizing area under the receiver operating characteristic curve** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221723008573)\ with Erhan C. Ozcan and Mustafa G. Baydogan \ *European Journal of Operational Reserach* (2024)
+
+5. **Association between delayed discharge from acute care and rehabilitation outcomes and length of stay: a retrospective cohort study** [[link]](https://www.archives-pmr.org/article/S0003-9993(22)00475-0/fulltext)\ with  Jing Dong, Karen Hunter, Krista M. Bettio, Betty Vukusic, Jonathan Ranisau, Gary Spencer, Terence Tang, and Vahid Sarhangian\
+*Archives of Physical Medicine and Rehabilitation* (2023)
+
+7. **A Newsvendor Approach to Design of Surgical Preference Cards** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2021.0298)\
 with Vahid Sarhangian\
 *Service Science* (2022)
+
+8. **Randomized trees for time series representation and similarity** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321002843)\ with Mustafa G. Baydogan\ *Pattern Recognition* (2021)
+
+9. **Explainable boosted linear regression for time series forecasting** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321003319)\ with Igor Ilic, Mucahit Cevik and Mustafa G. Baydogan\ *Pattern Recognition* (2021)
+
+10. **A Data Adaptive Biological Sequence Representation for Supervised Learning**[[link]](https://link.springer.com/article/10.1007/s41666-018-0038-5)\ with Hande Cakin and Mustafa G. Baydogan\ *Journal of Healthcare Informatics Research* (2018)
 
 
 ## Conference Publications
@@ -26,6 +46,7 @@ with Vahid Sarhangian\
 with Igor Ilic and Mucahit Cevik\
 *Advances in Artificial Intelligence: 33rd Canadian Conference on Artificial Intelligence, Canadian AI 2020, Ottawa, ON, Canada, May 13–15, 2020, Proceedings* (2020)
 
+2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\ with Necati Aras\ *Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018* (2018)
 
 
 
