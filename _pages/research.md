@@ -19,6 +19,12 @@ with Sean Berry, Sait Tunc and Mucahit Cevik
 3. **Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
 with Sean Berry, Sait Tunc and Mucahit Cevik
 
+4. **Prototype Forest in Multiple Instance Learning**\
+with Ozgur E. Sivrikaya, Ali E. Banak and Mustafa G. Baydogan
+
+5. **A Concurrent CNN-RNN Approach for Multi-Step Wind Power Forecasting**\
+with Syed Kazmi, Mucahit Cevik and Mustafa G. Baydogan
+
 ## Journal Papers
 1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
 with Jing Dong and Vahid Sarhangian \
