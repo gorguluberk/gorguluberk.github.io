@@ -9,17 +9,18 @@ author_profile: true
 - *Methodologies*: Stochastic Modeling and Optimization, Queueing Theory, Interpretable Machine Learning, Markov Decision Processes, Approximate Dynamic Programming
 - *Application Areas*: Healthcare, Service Systems Staffing and Scheduling
 
-
-## Preprints
-
 ## Working Papers
-Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking
+1. **Multiclass Queue Scheduling Under Slowdown: An Approximate Dynamic Programming Approach** [[link]](https://www.arxiv.org/abs/2501.10523)\
+with Jing Dong and Vahid Sarhangian
 
-Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations
+2. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
+with Sean Berry, Sait Tunc and Mucahit Cevik
 
+3. **Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
+with Sean Berry, Sait Tunc and Mucahit Cevik
 
 ## Journal Papers
-1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach.** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
+1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
 with Jing Dong and Vahid Sarhangian \
 *Manufacturing and Service Operations Management* (2024)
 
