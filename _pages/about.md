@@ -11,7 +11,7 @@ I am an Assistant Professor in Operations Management, at the [DeGroote School of
 
 ### Education
 - Ph.D., [Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), 2023
-- M.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2017
+- M.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2018
 - B.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2017
 
 ### Contact Information
