@@ -5,9 +5,6 @@ main:
 
   - title: "Research"
     url: /research/
-
-  - title: "Service"
-    url: /service_berk/
     
   - title: "Teaching"
     url: /teaching/
