@@ -14,11 +14,11 @@ author_profile: true
 with Jing Dong and Vahid Sarhangian\
 *Major Revision* in ***Operations Research***
 
-2. **Behaviorally-informed Strategies for Infectious Disease Mitigation: Balancing Incentives and Screening**
+2. **Behaviorally-informed Strategies for Infectious Disease Mitigation: Balancing Incentives and Screening**\
 with Ebru K. Bish, Douglas R. Bish and Sait Tunc\
 *Major Revision* in ***Operations Research***
 
-3. **A Novel Adaptive Testing Scheme for Multi-disease Testing**
+3. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
 with Ebru K. Bish, Douglas R. Bish and Merve Bodur\
 *Under Review* in ***Operations Research***
 
@@ -80,6 +80,7 @@ with Igor Ilic and Mucahit Cevik\
 2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\
 with Necati Aras\
 ***Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018*** (2018)
+
 
 
 
