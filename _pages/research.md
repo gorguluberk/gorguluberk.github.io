@@ -20,7 +20,7 @@ with Ebru K. Bish, Douglas R. Bish and Sait Tunc\
 
 3. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
 with Ebru K. Bish, Douglas R. Bish and Merve Bodur\
-*Under Review* in ***Operations Research***\
+*Immediate Revision* in ***Operations Research***\
 *Winner, 2025 INFORMS Public Service Operations Research (PSOR) Best Paper Competition*
 
 4. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
@@ -81,6 +81,7 @@ with Igor Ilic and Mucahit Cevik\
 2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\
 with Necati Aras\
 ***Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018*** (2018)
+
 
 
 
