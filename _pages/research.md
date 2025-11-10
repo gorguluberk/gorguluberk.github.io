@@ -25,11 +25,11 @@ with Ebru K. Bish, Douglas R. Bish and Merve Bodur\
 
 5. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
 with Sean Berry, Sait Tunc and Mucahit Cevik\
-*Major Revision* in ***Healthcare Management Science***
+*Minor Revision* in ***Healthcare Management Science***
 
 6. **Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
 with Sean Berry, Sait Tunc and Mucahit Cevik\
-*Major Revision* in ***Healthcare Management Science***
+*Minor Revision* in ***Healthcare Management Science***
 
 7. **Prototype Forest in Multiple Instance Learning**\
 with Ozgur E. Sivrikaya, Ali E. Banak and Mustafa G. Baydogan\
@@ -81,6 +81,7 @@ with Igor Ilic and Mucahit Cevik\
 2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\
 with Necati Aras\
 ***Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018*** (2018)
+
 
 
 
