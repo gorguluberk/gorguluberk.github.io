@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 - *Methodologies*: Stochastic Modeling and Optimization, Queueing Theory, Interpretable Machine Learning, Markov Decision Processes, Approximate Dynamic Programming
-- *Application Areas*: Healthcare, Service Systems Staffing and Scheduling
+- *Application Areas*: Healthcare Operations, Public Health, Service Systems, Staffing and Scheduling
 
 ## Working Papers
 1. **Multiclass Queue Scheduling Under Slowdown: An Approximate Dynamic Programming Approach** [[link]](https://www.arxiv.org/abs/2501.10523)\
@@ -81,6 +81,7 @@ with Igor Ilic and Mucahit Cevik\
 2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\
 with Necati Aras\
 ***Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018*** (2018)
+
 
 
 
