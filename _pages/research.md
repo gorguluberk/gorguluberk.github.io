@@ -12,63 +12,63 @@ author_profile: true
 ## Working Papers
 1. **Multiclass Queue Scheduling Under Slowdown: An Approximate Dynamic Programming Approach** [[link]](https://www.arxiv.org/abs/2501.10523)\
 with Jing Dong and Vahid Sarhangian\
-*Major Revision* in ***Operations Research***
+*Minor Revision* in ***Operations Research***
 
-2. **Behaviorally-informed Strategies for Infectious Disease Mitigation: Balancing Incentives and Screening**\
-with Ebru K. Bish, Douglas R. Bish and Sait Tunc\
-*Major Revision* in ***Operations Research***
-
-3. **A Novel Adaptive Testing Scheme for Multi-disease Testing**\
-with Ebru K. Bish, Douglas R. Bish and Merve Bodur\
-*Immediate Revision* in ***Operations Research***\
-*Winner, 2025 INFORMS Public Service Operations Research (PSOR) Best Paper Competition*
-
-5. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
-with Sean Berry, Sait Tunc and Mucahit Cevik\
-*Minor Revision* in ***Healthcare Management Science***
-
-6. **Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
-with Sean Berry, Sait Tunc and Mucahit Cevik\
-*Minor Revision* in ***Healthcare Management Science***
-
-7. **Prototype Forest in Multiple Instance Learning**\
-with Ozgur E. Sivrikaya, Ali E. Banak and Mustafa G. Baydogan\
-*Under Review* in ***Knowledge-Based Systems***
-
-8. **Enhanced Tree-Based Learners for Forecasting Tasks**\
+2. **Enhanced Tree-Based Learners for Forecasting Tasks**\
 with Mustafa G. Baydoğan and Ş. İlker Birbil\
 *In Progress*
 
 ## Journal Papers
-1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
+1. **Behaviorally-informed Strategies for Infectious Disease Mitigation: Balancing Incentives and Screening** [[link]](https://pubsonline.informs.org/doi/10.1287/opre.2024.0942)\
+with Ebru K. Bish, Douglas R. Bish and Sait Tunc\
+***Operations Research*** (2026)
+
+2. **A Novel Adaptive Testing Scheme for Multi-disease Testing** [[link]](https://pubsonline.informs.org/doi/10.1287/opre.2025.2006)\
+with Ebru K. Bish, Douglas R. Bish and Merve Bodur\
+***Operations Research*** (2026)\
+*Winner, 2025 INFORMS Public Service Operations Research (PSOR) Best Paper Competition*
+
+3. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
+with Sean Berry, Sait Tunc and Mucahit Cevik\
+***Healthcare Management Science*** (2026)
+
+4. **Interpretable Machine Learning for Personalized Breast Cancer Screening Recommendations** [[link]](https://link.springer.com/article/10.1007/s10729-025-09746-2)\
+with Sean Berry, Sait Tunc and Mucahit Cevik\
+***Healthcare Management Science*** (2026)
+
+5. **Prototype Forest in Multiple Instance Learning** [[link]](https://www.sciencedirect.com/science/article/pii/S095070512601261X)\
+with Ozgur E. Sivrikaya, Ali E. Banak and Mustafa G. Baydogan\
+***Knowledge-Based Systems*** (2026)
+
+7. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
 with Jing Dong and Vahid Sarhangian \
 ***Manufacturing and Service Operations Management*** (2024)
 
-2. **Inventory Management with Advance Booking Information: The Case of Surgical Supplies and Elective Surgeries** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2021.0063)\
+8. **Inventory Management with Advance Booking Information: The Case of Surgical Supplies and Elective Surgeries** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2021.0063)\
 with Jacky Chan and Vahid Sarhangian \
 ***Manufacturing and Service Operations Management*** (2024)
   
-3. **Column generation-based prototype learning for optimizing area under the receiver operating characteristic curve** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221723008573)\
+9. **Column generation-based prototype learning for optimizing area under the receiver operating characteristic curve** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221723008573)\
 with Erhan C. Ozcan and Mustafa G. Baydogan \
 ***European Journal of Operational Reserach*** (2024)
 
-4. **Association between delayed discharge from acute care and rehabilitation outcomes and length of stay: a retrospective cohort study** [[link]](https://www.archives-pmr.org/article/S0003-9993(22)00475-0/fulltext)\
+10. **Association between delayed discharge from acute care and rehabilitation outcomes and length of stay: a retrospective cohort study** [[link]](https://www.archives-pmr.org/article/S0003-9993(22)00475-0/fulltext)\
 with  Jing Dong, Karen Hunter, Krista M. Bettio, Betty Vukusic, Jonathan Ranisau, Gary Spencer, Terence Tang, and Vahid Sarhangian\
 ***Archives of Physical Medicine and Rehabilitation*** (2023)
 
-5. **A Newsvendor Approach to Design of Surgical Preference Cards** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2021.0298)\
+11. **A Newsvendor Approach to Design of Surgical Preference Cards** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2021.0298)\
 with Vahid Sarhangian\
 ***Service Science*** (2022)
 
-6. **Randomized trees for time series representation and similarity** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321002843)\
+12. **Randomized trees for time series representation and similarity** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321002843)\
 with Mustafa G. Baydogan\
 ***Pattern Recognition*** (2021)
 
-7. **Explainable boosted linear regression for time series forecasting** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321003319)\
+13. **Explainable boosted linear regression for time series forecasting** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321003319)\
 with Igor Ilic, Mucahit Cevik and Mustafa G. Baydogan\
 ***Pattern Recognition*** (2021)
 
-8. **A Data Adaptive Biological Sequence Representation for Supervised Learning**[[link]](https://link.springer.com/article/10.1007/s41666-018-0038-5)\
+14. **A Data Adaptive Biological Sequence Representation for Supervised Learning**[[link]](https://link.springer.com/article/10.1007/s41666-018-0038-5)\
 with Hande Cakin and Mustafa G. Baydogan\
 ***Journal of Healthcare Informatics Research*** (2018)
 
